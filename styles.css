@@ -4,7 +4,6 @@
 }
 
 .header,
-
 .top-section,
 .images-section,
 .quote-section,
@@ -13,9 +12,18 @@
     display: flex;
 }
 
+.header {
+    justify-content: space-between;
+}
+
 .header-logo,
 .header-links {
     display: flex;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 ul {
