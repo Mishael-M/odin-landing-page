@@ -120,4 +120,11 @@ ul a {
 .quote-section {
     text-align: center;
     background-color: #E5E7EB;
+    padding: 80px auto;
+}
+
+.quote-text {
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 100;
 }
