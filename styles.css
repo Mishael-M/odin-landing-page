@@ -71,3 +71,14 @@ ul a {
     border: none;
     border-radius: 8px;
 }
+
+.top-image {
+    height: 250px;
+    width: 800px;
+    background-color: gray;
+    color: #E5E7EB;
+}
+
+.top-image p {
+    text-align: center;
+}
