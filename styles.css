@@ -79,11 +79,11 @@ ul a {
     padding-right: 32px;
 }
 
-.top-image {
-    height: 250px;
+.top-image img {
+    height: 400px;
     width: 800px;
-    background-color: gray;
-    color: #E5E7EB;
+    border: 5px solid #3882F6;
+    border-radius: 20px;
 }
 
 .top-image p {
