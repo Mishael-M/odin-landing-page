@@ -151,11 +151,10 @@ ul a {
     border-radius: 8px;
     display: flex;
     background-color: #3882F6;
-    padding: 24px 100px;
+    padding: 32px 100px;
 }
 
 .signup-text {
-    border: 10px solid black;
     padding: 0;
     margin: 0;
     display: flex;
@@ -174,7 +173,6 @@ ul a {
 
 
 .signup-button-box {
-    border: 10px solid black;
     align-self: center;
     padding-left: 24px;
 }
