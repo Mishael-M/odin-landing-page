@@ -98,6 +98,13 @@ ul a {
 
 .images-list {
     display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.image-wolf {
+    max-width: 150px;
+    text-align: center;
 }
 
 .image-wolf img{
@@ -105,4 +112,9 @@ ul a {
     width: 150px;
     border: 5px solid #3882F6;
     border-radius: 20px;
+}
+
+.image-wolf .image-text {
+    color: gray;
+    font-weight: 400;
 }
