@@ -61,3 +61,13 @@ ul a {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.top-section button {
+    background-color: #3882F6;
+    font-size: 18px;
+    color: #E5E7EB;
+    font-weight: 800;
+    padding: 8px 32px;
+    border: none;
+    border-radius: 8px;
+}
