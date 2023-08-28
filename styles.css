@@ -2,3 +2,12 @@
     display: flex;
     flex-direction: column;
 }
+
+.header,
+.top-section,
+.images-section,
+.quote-section,
+.signup-section,
+.footer {
+    display: flex;
+}
