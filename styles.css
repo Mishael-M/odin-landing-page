@@ -116,3 +116,8 @@ ul a {
     color: gray;
     font-weight: 400;
 }
+
+.quote-section {
+    text-align: center;
+    background-color: #E5E7EB;
+}
