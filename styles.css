@@ -99,3 +99,10 @@ ul a {
 .images-list {
     display: flex;
 }
+
+.image-wolf img{
+    height: 150px;
+    width: 150px;
+    border: 5px solid #3882F6;
+    border-radius: 20px;
+}
