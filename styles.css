@@ -3,7 +3,7 @@
     flex-direction: column;
     margin: 0;
     padding: 0;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
 }
 
 .header,
@@ -123,13 +123,11 @@ ul a {
     padding: 120px 240px;
 }
 
-.quote {
-    border: 10px solid black;
-}
 .quote-text {
     font-size: 32px;
     font-style: italic;
-    font-weight: 100;
+    font-weight: 300;
+    color: #1F2937;
 }
 
 .quote-author {
