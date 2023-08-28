@@ -176,3 +176,12 @@ ul a {
     align-self: center;
     padding-left: 24px;
 }
+
+.signup-button-box button {
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+    padding: 4px 24px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+}
