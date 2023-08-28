@@ -17,6 +17,7 @@
 .header {
     justify-content: space-between;
     background-color: #1F2937;
+    padding: 24px 200px;
 }
 
 .header-logo,
