@@ -28,6 +28,11 @@
     color: #F9FAF8;
 }
 
+.header-logo img {
+    height: 50px;
+    width: 50px;
+}
+
 .header-links {
     gap: 16px;
 }
