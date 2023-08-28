@@ -146,6 +146,18 @@ ul a {
 }
 
 .signup-box {
-    border: 10px solid black;
+    border-radius: 8px;
     display: flex;
+    background-color: #3882F6;
+    padding: 24px 100px;
 }
+
+/* .signup-text {
+    border: 10px solid black;
+}
+
+.signup-button-box {
+    border: 10px solid black;
+    align-self: center;
+    padding-left: 24px;
+} */
