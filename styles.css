@@ -87,11 +87,11 @@ ul a {
 
 
 .images-information {
-   text-align: center;
-   font-size: 36px;
-   font-weight: 900;
-   color: #1F2937;
-   margin: 48px auto;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    margin: 48px auto;
 }
 
 .images-list {
@@ -105,7 +105,7 @@ ul a {
     text-align: center;
 }
 
-.image-wolf img{
+.image-wolf img {
     height: 150px;
     width: 150px;
     border: 5px solid #3882F6;
@@ -120,11 +120,21 @@ ul a {
 .quote-section {
     text-align: center;
     background-color: #E5E7EB;
-    padding: 80px auto;
+    padding: 120px 240px;
 }
 
+.quote {
+    border: 10px solid black;
+}
 .quote-text {
     font-size: 32px;
     font-style: italic;
     font-weight: 100;
+}
+
+.quote-author {
+    text-align: right;
+    font-size: 24px;
+    font-weight: 900;
+    padding-right: 24px;
 }
