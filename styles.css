@@ -7,10 +7,7 @@
 }
 
 .header,
-.top-section,
-.quote-section,
-.signup-section,
-.footer {
+.top-section {
     display: flex;
 }
 
