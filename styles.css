@@ -4,10 +4,16 @@
 }
 
 .header,
+
 .top-section,
 .images-section,
 .quote-section,
 .signup-section,
 .footer {
+    display: flex;
+}
+
+.header-logo,
+.header-links {
     display: flex;
 }
